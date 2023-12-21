@@ -1,0 +1,6 @@
+Albert Einstein 9 90
+Niels Bohr 9 93
+Ernest Rutherford 10 91
+Lev Landau 11 92
+Enrico Fermi 9 93
+Ivan Puluj 10 91
